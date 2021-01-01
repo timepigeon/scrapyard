@@ -16,7 +16,7 @@
 .selectric {
   border: 1px solid black;
   border-radius: 4px;
-  background: #F8F8F8;
+  background: #323234;
   position: relative;
   overflow: hidden;
 }
@@ -195,22 +195,23 @@
 .selectric-items li {
   display: block;
   padding: 2px;
-  color: black;
+  color: #ccc;
   cursor: pointer;
+  background: #323234;
 }
 
 .selectric-items li.selected {
-  background: #ddd;
+  background: #323234;
   /*color: #444;*/
 }
 
 .selectric-items li.highlighted {
-  background: #ddd;
+  background: #323234;
   /*color: #444;*/
 }
 
 .selectric-items li:hover {
-  background: #ddd;
+  background: #555;
   /*color: #444;*/
 }
 

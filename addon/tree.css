@@ -27,16 +27,16 @@
     background: #ddd;
 }
 .jstree-default .jstree-hovered {
-    background: #eee;
+    background: #444;
 }
 
 
 .jstree-default .jstree-wholerow-clicked {
-    background: #ddd;
+    background: #323234;
 }
 
 .jstree-default .jstree-wholerow-hovered {
-    background: #eee;
+    background: #444;
 }
 
 .vakata-context,
